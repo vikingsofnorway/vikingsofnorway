@@ -27,7 +27,7 @@ I already have plans for my first blog post that will hopefully be done soon. �
 Grace Tay
 ==================
 
-I recently graduated with my game design degree 😀. This past year I've been I worked with a local dev shop in full stack development. It also became a bit of a design/ UX internship. I recently started using Sketch for wireframing, in addition to Adobe Illustrator. Right now, I am learning Swift development, implementing my wireframes in Xcode. I would like to head into the field of UX/UI Development/Design. Topics I may discuss are:
+I recently graduated with my game design degree 😀. This past year I've worked with a local dev shop in full stack development. It also became a bit of a design/ UX internship. I recently started using Sketch for wireframing, in addition to Adobe Illustrator. Right now, I am learning Swift development, implementing my wireframes in Xcode. I would like to head into the field of UX/UI Development/Design. Topics I may discuss are:
 
 - Designing a web or mobile application
 - Swift Storyboards and constraints
