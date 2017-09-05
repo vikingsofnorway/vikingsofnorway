@@ -18,7 +18,7 @@ email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   This a tech blog run by a couple in Ohio. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vikingsofnorway.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vikingsofnorway
 
 social_link: twitter
@@ -30,6 +30,7 @@ theme: jekyll-swiss
 theme_color: yellow	
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
